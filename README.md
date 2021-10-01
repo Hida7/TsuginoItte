@@ -8,3 +8,7 @@ In most cases, Sudoku bigginers stop solving puzzle because they cannot find how
 This program lets user to find next step to let user to get breakthrough.
 
 ![Sample](./screenshots/p1.png)
+
+
+This README.md is unserconstruction.
+hhida@ra2.so-net.ne.jp
