@@ -10,5 +10,6 @@ This program lets user to find next step to let user to get breakthrough.
 ![Sample](./screenshots/p1.png)
 
 
-This README.md is unserconstruction.
+This README.md is underconstruction.
+
 hhida@ra2.so-net.ne.jp
