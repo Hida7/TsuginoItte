@@ -12,4 +12,4 @@ This program lets user to find next step to let user to get breakthrough.
 
 This README.md is underconstruction.
 
-hhida@ra2.so-net.ne.jp
+
